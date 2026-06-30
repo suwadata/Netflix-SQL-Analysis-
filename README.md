@@ -62,7 +62,7 @@ Queries included:
 - Action, Anime, and International content dominate the content categories.
 
 # Conclusion
-This project demonstrates practical SQL skills including filtering, aggregation, grouping, ranking, CTEs, and window functions to generate business insights from entertainment data.
+
 
 
 
